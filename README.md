@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor Backend em formação, focado em aprender Java. Sou iniciante, não especialista, e continuo estudando e buscando evoluir como desenvolvedor Backend, criando soluções eficientes e escaláveis com as tecnologias modernas do ecossistema Java e Spring.
+Sou um desenvolvedor Backend em formação, focado em aprender Java. Sou iniciante, e continuo estudando e buscando evoluir como desenvolvedor Backend, criando soluções eficientes e escaláveis com as tecnologias modernas do ecossistema Java e Spring.
 
 ## 💼 Projeto Destaque
 
