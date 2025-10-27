@@ -23,4 +23,5 @@ Meu primeiro projeto profissional! Uma API REST completa para gerenciamento de r
 🔗 [Link do Projeto](https://github.com/OctavioCostaChiquim/cadastro-ramais)
 ## 🎯 Experiência Profissional
 Atuo atualmente como Analista de Suporte Pleno (Smartspace), com foco em Suporte Técnico e VoIP. Desenvolvo habilidades em troubleshooting, documentação e gestão de sistemas. Essas competências auxiliam minha transição para desenvolvimento Backend.
+
 **Saiba mais no meu [LinkedIn](https://www.linkedin.com/in/octaviochiquim-voip-dev/)**
